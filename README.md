@@ -43,7 +43,7 @@ Worker Deploy လုပ်ပြီးပါက Telegram မှ စာမျာ�
 မိမိ၏ Browser (Chrome / Firefox / Edge) ကိုဖွင့်၍ အောက်ပါ Link တွင် မိမိ၏ BOT_TOKEN နှင့် WORKER_URL တို့ကို အစားထိုးပြီး ရိုက်ထည့်၍ Enter နှိပ်ပါ-
 Webhook ချိတ်ဆက်နည်း
 ```
-curl -X POST "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=<YOUR_WORKER_URL>"
+https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=<YOUR_WORKER_URL>
 ```
 နည်းလမ်း (၂) Terminal / Command Prompt မှတစ်ဆင့် ချိတ်ဆက်ခြင်း (cURL)
 ```

@@ -50,3 +50,8 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=<YOUR_WORKER_URL>
 curl -X POST "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=<YOUR_WORKER_URL>"
 ```
 Browsr မှာ True ဆိုတဲ့စာလုံးတွေ့ရင် Webhook အောက်မြင်စွာချိတ်ဆက်ပြီးပါပြီ
+ဇာတ်ကားလင့်ထည့်ရန်
+```
+https://t.me/letwatch_tom_hanks_bot?start=
+```
+
